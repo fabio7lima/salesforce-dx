@@ -32,14 +32,14 @@
     [
         "C:\\Users\\fabio.lima\\Desktop\\Siqueira\\ProjetosDx\\geolocation\\force-app\\main\\default",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\fabio.lima\\Desktop\\Siqueira\\ProjetosDx\\geolocation\\force-app\\main\\default",
             "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1532960504132,
-            "changeTime": 1532960504132,
-            "contentHash": "df722e829b7a6a7630651123b390ed6a8e0a809a",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 0,
+            "modifiedTime": 1532971862015,
+            "changeTime": 1532971862015,
+            "contentHash": "06f2697e8ff31729c60baa7fe4014e8b1015eae4"
         }
     ],
     [
@@ -145,8 +145,8 @@
             "isDirectory": false,
             "isMetadataFile": true,
             "size": 854,
-            "modifiedTime": 1532968145669,
-            "changeTime": 1532968145669,
+            "modifiedTime": 1532971862022,
+            "changeTime": 1532971862022,
             "contentHash": "2a134e439d0ea3cd396d3c25efe3e138110352df"
         }
     ],
@@ -213,6 +213,32 @@
             "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba",
             "isMetadataFile": false,
             "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\fabio.lima\\Desktop\\Siqueira\\ProjetosDx\\geolocation\\force-app\\main\\default\\customPermissions\\Geolocation.customPermission-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\fabio.lima\\Desktop\\Siqueira\\ProjetosDx\\geolocation\\force-app\\main\\default\\customPermissions\\Geolocation.customPermission-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 157,
+            "modifiedTime": 1532971862018,
+            "changeTime": 1532971862018,
+            "contentHash": "6e496e644cae909d43f1e5778a49b9ae57135dbf"
+        }
+    ],
+    [
+        "C:\\Users\\fabio.lima\\Desktop\\Siqueira\\ProjetosDx\\geolocation\\force-app\\main\\default\\customPermissions",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\fabio.lima\\Desktop\\Siqueira\\ProjetosDx\\geolocation\\force-app\\main\\default\\customPermissions",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1532971862017,
+            "changeTime": 1532971862017,
+            "contentHash": "3c13dc9df2af1c316fffd204e9cb76fc15308483"
         }
     ]
 ]
